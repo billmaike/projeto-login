@@ -39,7 +39,7 @@ div#q input {
     border-style: solid;
     color: rgb(243, 240, 240);
     width: 260px;
-    height: 30px; 
+    height: 40px; 
     border-radius: 4px;
 }
 input { 
@@ -48,7 +48,7 @@ input {
     border-style: solid;
     font-size: 1em;
     width: 256px;
-    height: 30px;
+    height: 40px;
 }
 a {
     text-decoration: none;
