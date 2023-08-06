@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px)
+ {
+    div#q input {
+        width: 328px;
+    }
+    input {
+        
+        width: 325px;
+    }
+    main {
+        width: 340px;
+    }
+    
+}
