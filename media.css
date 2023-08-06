@@ -3,14 +3,14 @@
 @media screen and (min-width: 768px)
  {
     div#q input {
-        width: 328px;
+        width: 348px;
     }
     input {
         
-        width: 325px;
+        width: 345px;
     }
     main {
-        width: 340px;
+        width: 359px;
     }
     
 }
